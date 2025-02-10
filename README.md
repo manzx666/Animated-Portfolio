@@ -1,7 +1,6 @@
-### Demo Links 
+### Demo 
 >>
 
 ![Screenshot](example.png)
 
-## Code? 
-### Coming Soon
+
